@@ -1,5 +1,5 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY RIZZ NOJEBEH
 
 *🏧 BANK*
 
@@ -25,7 +25,8 @@ Semuanya atas nama RI****DI
 
 *📲 PULSA*
 
-Tidak tersedia
+AXIS : 83869891410
+THREE :89604123422
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
